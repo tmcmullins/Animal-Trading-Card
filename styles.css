@@ -1,0 +1,52 @@
+*{
+	font-family: Georgia;
+	line-height: 1.25em;
+}
+html{
+	background-color: #AAA; 
+}
+img{
+	border: 1px solid #f8f7f1;
+	display: block;
+	margin: auto;
+}
+
+h3{
+	color: #f8f7f1;
+	font-size: 20px;
+	padding-left: 12px;
+}
+
+p{
+	font-size: 15px;
+}
+
+#tradingCard{
+	width: 325px;
+	padding: 2px;
+	margin: auto;
+	border: 2px solid #cecece;
+	box-shadow: 4px 4px 8px 0px #777;
+	background: linear-gradient(90deg, #151716 -50%, #1a3024, #151716 150%); 
+}
+
+.info{
+	border: 1px solid #cecece;
+	margin: 20px 11px;
+	padding: 0px 10px 10px;
+	background-color: #f8f7f1;
+}
+
+.funFact{
+	font-style: italic;
+}
+
+.label{
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.list{
+	list-style: none;
+	padding: 0px;
+}
